@@ -1,0 +1,17 @@
+h1{
+    color: rgb(54, 82, 218);
+    background-color: chartreuse;
+   
+}
+h2{
+    color: rgb(196, 203, 57);
+    background-color: rgb(196, 112, 195);
+}
+#id1{
+    color: rgb(240, 172, 100);
+    background-color: rgb(70, 161, 198);
+}
+.myname{
+    color: rgb(9, 114, 60);
+    background-color: grey;
+}
